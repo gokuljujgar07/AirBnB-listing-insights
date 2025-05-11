@@ -13,6 +13,11 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 <img src="https://github.com/user-attachments/assets/5df482f0-285b-4e4e-b3c3-92e4bc9c74e3" width=1000>
 
+# 🛠️ Tools & library Used -
+
+<img src="https://github.com/user-attachments/assets/df192444-ad3c-4c65-9d62-a392dcca6715" alt="logo" width="200" height="100"/>
+
+<img src="https://github.com/user-attachments/assets/4fb51cb2-e6da-4299-adb7-573be902fd8c" alt="logo" width="200" height="100"/>
 
 ---
 
@@ -45,3 +50,8 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 ✅ AirBnB can replicate such regulations at other places.
 ✅ They can keep strict rules to onboard and release the hosts.
 ✅ They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
+
+---
+
+
+
