@@ -44,11 +44,17 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 #💡🎯 Recommendation :
 ---
 ✅ Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
+
 ✅ Such regulations might add to AirBnBs losses which might be difficult to recover later.
+
 ✅ If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
+
 ✅ It is recommended to watch out for any such regulations at other places and be prepared for it.
+
 ✅ AirBnB can replicate such regulations at other places.
+
 ✅ They can keep strict rules to onboard and release the hosts.
+
 ✅ They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
 
 ---
