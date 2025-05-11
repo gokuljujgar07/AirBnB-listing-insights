@@ -6,9 +6,10 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## 📌 Project Link
 
+[AirBnB-listing-insights](https://www.kaggle.com/code/gokuljujgar/airbnb-project)
+
 ---
 
-[AirBnB-listing-insights](https://www.kaggle.com/code/gokuljujgar/airbnb-project)
 
 <img src="https://github.com/user-attachments/assets/5df482f0-285b-4e4e-b3c3-92e4bc9c74e3" width=1000>
 
