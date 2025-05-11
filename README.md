@@ -17,7 +17,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 <img src="https://github.com/user-attachments/assets/df192444-ad3c-4c65-9d62-a392dcca6715" alt="logo" width="200" height="100"/>
 
-<img src="https://github.com/user-attachments/assets/4fb51cb2-e6da-4299-adb7-573be902fd8c" alt="logo" width="200" height="100"/>
+<img src="https://github.com/user-attachments/assets/4fb51cb2-e6da-4299-adb7-573be902fd8c" alt="logo" width="320" height="100"/>
 
 ---
 
